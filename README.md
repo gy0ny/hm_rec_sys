@@ -31,11 +31,10 @@
 
 
 
-References<br/><br/>
+References<br/>
 Mathilde Caron, Piotr Bojanowski, Armand Joulin, and Matthijs Douze. Deep clustering for
 unsupervised learning of visual features. CoRR, abs/1807.05520, 2018. URL http://arxiv.
 org/abs/1807.05520.
-<br/><br/>
-
+<br/>
 Hessel Tuinhof, Clemens Pirker, and Markus Haltmeier. Image based fashion product recommendation with deep learning. CoRR, abs/1805.08694, 2018. URL http://arxiv.org/abs/
 1805.08694.
